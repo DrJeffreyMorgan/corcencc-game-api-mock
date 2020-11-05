@@ -9,7 +9,7 @@
                 { "id": -9999, "word": "oven" },
                 { "id": 1, "word": "kitchen" }
             ],
-            "distance": 0.8
+            "distance": 0.2
         },
         {
             "candidates": [
@@ -23,14 +23,14 @@
                 { "id": 2, "word": "house" },
                 { "id": 3, "word": "garden" }
             ],
-            "distance": 0.8
+            "distance": 0.7
         },
         {
             "candidates": [
                 { "id": 3, "word": "garden" },
                 { "id": 4, "word": "grass" }
             ],
-            "distance": 0.8
+            "distance": 0.9
         },
         {
             "candidates": [
