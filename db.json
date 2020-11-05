@@ -5,28 +5,38 @@
     ],
     "solutions": [
         {
-            "candidate1": { "id": -9999, "word": "oven" },
-            "candidate2": { "id": 9999, "word": "kitchen" },
+            "candidates": [
+                { "id": -9999, "word": "oven" },
+                { "id": 1, "word": "kitchen" }
+            ],
             "distance": 0.8
         },
         {
-            "candidate1": { "id": -9999, "word": "kitchen" },
-            "candidate2": { "id": 9999, "word": "house" },
+            "candidates": [
+                { "id": 1, "word": "kitchen" },
+                { "id": 2, "word": "house" }
+            ],
             "distance": 0.8
         },
         {
-            "candidate1": { "id": -9999, "word": "house" },
-            "candidate2": { "id": 9999, "word": "garden" },
+            "candidates": [
+                { "id": 2, "word": "house" },
+                { "id": 3, "word": "garden" }
+            ],
             "distance": 0.8
         },
         {
-            "candidate1": { "id": -9999, "word": "garden" },
-            "candidate2": { "id": 9999, "word": "grass" },
+            "candidates": [
+                { "id": 3, "word": "garden" },
+                { "id": 4, "word": "grass" }
+            ],
             "distance": 0.8
         },
         {
-            "candidate1": { "id": -9999, "word": "grass" },
-            "candidate2": { "id": 9999, "word": "football" },
+            "candidates": [
+                { "id": 4, "word": "grass" },
+                { "id": 9999, "word": "football" }
+            ],
             "distance": 0.8
         }
     ]
