@@ -1,3 +1,33 @@
 {
-    "suggestions": [ "kitchen", "room" ]
+    "suggestions": [
+        "kitchen",
+        "room"
+    ],
+    "solutions": [
+        {
+            "candidate1": { "id": -9999, "word": "oven" },
+            "candidate2": { "id": 9999, "word": "kitchen" },
+            "distance": 0.8
+        },
+        {
+            "candidate1": { "id": -9999, "word": "kitchen" },
+            "candidate2": { "id": 9999, "word": "house" },
+            "distance": 0.8
+        },
+        {
+            "candidate1": { "id": -9999, "word": "house" },
+            "candidate2": { "id": 9999, "word": "garden" },
+            "distance": 0.8
+        },
+        {
+            "candidate1": { "id": -9999, "word": "garden" },
+            "candidate2": { "id": 9999, "word": "grass" },
+            "distance": 0.8
+        },
+        {
+            "candidate1": { "id": -9999, "word": "grass" },
+            "candidate2": { "id": 9999, "word": "football" },
+            "distance": 0.8
+        }
+    ]
 }
